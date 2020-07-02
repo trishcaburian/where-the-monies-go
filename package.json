@@ -1,0 +1,17 @@
+{
+  "name": "monies",
+  "version": "1.0.0",
+  "description": "for keeping track of where your dosh goes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "budget",
+    "better",
+    "you",
+    "dummy"
+  ],
+  "author": "spendomatic",
+  "license": "ISC"
+}
