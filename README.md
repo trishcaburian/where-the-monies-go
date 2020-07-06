@@ -1,2 +1,2 @@
 # where-the-monies-go
-practice project for node.js
+practice project for whatever
